@@ -1,0 +1,11 @@
+div {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #69D2E7;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Serif;
+    font-size:20px;
+    opacity: 0.5;
+}
